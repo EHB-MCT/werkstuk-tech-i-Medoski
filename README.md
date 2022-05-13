@@ -5,9 +5,9 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 ## Eige informatie
 
-- Voornaam Achternaam
-- Klasgroep
-- Groepsnaam
+- Mehdi Benallal
+- Groep A
+- Niet Bekend
 
 
 ## Storyline 
@@ -16,8 +16,8 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 
 1. (status quo)
 2. (Call to adventure)
-3. (Guidance)
-4. (Crossing)
+3. (Guidance) "!" "!!"
+4. (Crossing)"!"
 5. (Trials)
 6. (Approach)
 7. (Crisis)
@@ -30,9 +30,16 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 
 ## Experience
 
-Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
+Wat ik aanzou toevoegen is gewoon de de Proximity sensor in een speciaal doosje zetten die met een cut out zodat het boekje OP de sensor wordt geopend, het beep geluid zou dan eerder een alert sound effect zijn en ik zou ook een schermpje toevoegen waar er 'eureka !' zou opkomen na het openen van het boekje op de sensor
 
 ## Interaction
+
+Mijn Arduino maakt een beep sound wanneer je het boekje opent op de sensor, de beep wordt pas na 5 seconden geïnitieerd en er brandt een rood lampje
+Mijn interactie speekt voor zichzelf, je hoeft het boejke enkel open te doen
+
+Hoe zou ik het in de toekomst aanpakken ?
+
+Ik zou eerder een een tilsensor plaatsen ipv een proximity sensor omdat het boekje effectie ook getild wordt.
 
 Leg uit welke interaction je hebt toegevoegd, en hoe je deze duidelijk maakt aan de gebruiker. Voeg toe hoe je deze in de toekomst anders zou aanpakken, of waar je meer duidelijkheid zou creeeren indien nodig.
 
