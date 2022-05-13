@@ -7,7 +7,7 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 - Mehdi Benallal
 - Groep A
-- Groepsnaam Niet Bekend
+- Evil Scientist
 
 
 ## Storyline 
