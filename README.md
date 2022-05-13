@@ -41,7 +41,6 @@ Hoe zou ik het in de toekomst aanpakken ?
 
 Ik zou eerder een een tilsensor plaatsen ipv een proximity sensor omdat het boekje effectie ook getild wordt.
 
-Leg uit welke interaction je hebt toegevoegd, en hoe je deze duidelijk maakt aan de gebruiker. Voeg toe hoe je deze in de toekomst anders zou aanpakken, of waar je meer duidelijkheid zou creeeren indien nodig.
 
 
 
